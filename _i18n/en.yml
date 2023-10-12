@@ -72,8 +72,10 @@ months:
 news:
   titles:
     announcement_1: Our Website Support Chinese!
-    announcement_2: A paper was accepted by SEKE23!
+    announcement_2: A paper was accepted by SEKE 2023(ccf-c)!
     announcement_3: SHU_Chat is available now!
+    announcement_4: Two papers has been accepted by EMNLP 2023(ccf-b)!
+
 pagination:
   newer: Newer
   older: Older
@@ -128,3 +130,15 @@ people:
   chen_bin:
     name: Bin Chen
     position: Master Course, 2nd year
+  liu_guowei:
+    name: Guowei Liu
+    position: Master Course, 1st year
+  liu_maolin:
+    name: Maolin Liu
+    position: Master Course, 1st year
+  zhang_xilin:
+    name: Xilin Zhang
+    position: Master Course, 1st year
+  hou_qihang:
+    name: Qihang Hou
+    position: Master Course, 1st year
