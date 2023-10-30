@@ -13,6 +13,6 @@ Currently, the majority of members in the laboratory have a background in Natura
 
 From 2023.10, we are seeking ambitious and highly talented PhD (1) /Master (4) candidates to work on the interface of multimodal document retrieval (MDR), natural language understanding (NLU) using large language models (LLM). 
 
-Feel free to reach out with questions or comments by [contacting us](https://hint-lab.github.io/people/wang_hao)!
+Feel free to reach out with questions or comments by [contacting us](mailto:wang-hao@shu.edu.cn)!
 
 
