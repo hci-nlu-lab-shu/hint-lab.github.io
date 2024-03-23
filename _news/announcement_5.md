@@ -1,7 +1,7 @@
 ---
 layout: post
 title: news.titles.announcement_5
-date: 2024-03-24 15:59:00-0400
+date: 2024-03-24 15:59:00-0100
 inline: false
 related_posts: false
 ---
