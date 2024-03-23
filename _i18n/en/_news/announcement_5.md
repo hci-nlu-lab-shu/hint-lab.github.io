@@ -6,8 +6,11 @@ This time, one paper of the work of the Natural Language Processing and Human-Co
 The brief introduction of the accepted paper is as follows:
 Towards Human-Like Machine Comprehension. 
 Few-Shot Relational Learning in Visually-Rich Documents
+
 Type: Long Paper
+
 Author(s): Hao Wang (Lecturer), Tang Li (M.S. Candidate, Class of 2021), et al.
+
 Introduction: Key-value relationships are common in visually-rich documents (VRDs), which are usually described in different spatial regions accompanied by specific colours and font styles. These non-texts are important features that greatly enhance human understanding of this relational triad. However, current document AI approaches are unable to take into account this valuable a priori information related to visual and spatial features, resulting in sub-optimal performance, especially when dealing with a limited number of examples. To address this limitation, our research focuses on few-shot relational learning, especially for the extraction of key-value relation triples in VRD. In view of the lack of datasets suitable for this task, we have introduced two new few-shot datums based on the existing supervised datum datasets. In addition, we propose a variational method that combines relational two-dimensional space prior and prototype correction techniques. This approach aims to generate relational representations that are aware of spatial context and unseen relationships in a manner similar to human perception. Experimental results demonstrate the effectiveness of our proposed method and demonstrate its ability to outperform existing methods. This research also opens up new possibilities for practical applications.
 
 ![alt text](./pic/announcement_5_p1.png)
