@@ -3,6 +3,9 @@
 此次联合会议将聚焦计算语言学、语音处理、多模态和自然语言处理领域的研究人员和从业者，重点关注评估和资源开发，以支持这些领域的工作。延续 COLING 和 LREC 的悠久传统，本次联合会议将突出重大挑战，提供口头报告和广泛的海报展示，为与会者提供充分交流的机会，并配以丰富的社交活动。
 
 此次上海大学自然语言处理与人机交互实验室（H!NTLAB）由李唐同学主要参与的工作1篇论文被LREC-COLING 2024接收。
+
+***
+
 被录用论文的简要介绍如下：
 Towards Human-Like Machine Comprehension: 
 Few-Shot Relational Learning in Visually-Rich Documents
