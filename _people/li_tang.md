@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: people
 title: people.li_tang.name
 description: people.li_tang.position
@@ -14,5 +14,5 @@ profile:
 ---
 
 ---
-{% translate_file _people/li_tang.md %}
+{% translate_file _people/li_tang.md %} -->
 

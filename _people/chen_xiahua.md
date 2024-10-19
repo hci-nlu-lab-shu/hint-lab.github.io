@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: people
 title: people.chen_xiahua.name
 description: people.chen_xiahua.position
@@ -14,4 +14,4 @@ profile:
 ---
 
 
-{% translate_file _people/chen_xiahua.md %}
+{% translate_file _people/chen_xiahua.md %} -->
