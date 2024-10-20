@@ -75,6 +75,7 @@ news:
     announcement_3: 全能的小薯助手v0.1测试版上线了！
     announcement_4: 两篇论文已被EMNLP2023接收!🎉🎉
     announcement_5: 一篇论文被LREC-COLING 2024接受!✌✌
+    announcement_6: 开展基于大模型的自主智能体报告！
 pagination:
   newer: 近期
   older: 往期
@@ -122,22 +123,37 @@ people:
     position: 硕士M3
   wang_changqing: 
     name: 王常青
-    position: 硕士M2
+    position: 硕士M3
   wang_qingxuan:
     name: 王庆旋
-    position: 硕士M2
+    position: 硕士M3
   chen_bin:
     name: 陈 斌
-    position: 硕士M2
+    position: 硕士M3
   hou_qihang: 
     name: 侯启航
-    position: 硕士M1
+    position: 硕士M2
   liu_maolin: 
     name: 刘茂林
-    position: 硕士M1
+    position: 硕士M2
   liu_guowei: 
     name: 刘国伟
-    position: 硕士M1
+    position: 硕士M2
   zhang_xilin: 
     name: 张熙林
+    position: 硕士M2
+  ni_kexin:
+    name: 倪可欣
+    position: 硕士M1
+  yang_qi:
+    name: 杨旗
+    position: 硕士M1
+  ma_tianjiao:
+    name: 马天骄
+    position: 硕士M1
+  fan_jie:
+    name: 樊洁
+    position: 硕士M1
+  simo:
+    name: 黎昕
     position: 硕士M1

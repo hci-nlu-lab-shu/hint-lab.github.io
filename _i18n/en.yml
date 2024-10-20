@@ -76,6 +76,7 @@ news:
     announcement_3: SHU_Chat is available now!
     announcement_4: Two papers have been accepted by EMNLP2023! 🎉🎉   
     announcement_5: A paper accepted for LREC-COLING 2024! ✌✌
+    announcement_6: Carry out autonomous agent reports based on large models!
 pagination:
   newer: Newer
   older: Older
@@ -123,23 +124,37 @@ people:
     position: Master Course, 3rd year
   wang_changqing: 
     name: Changqing Wang
-    position: Master Course, 2nd year
+    position: Master Course, 3rd year
   wang_qingxuan:
     name: Qingxuan Wang
-    position: Master Course, 2nd year
+    position: Master Course, 3rd year
   chen_bin:
     name: Bin Chen
-    position: Master Course, 2nd year
+    position: Master Course, 3rd year
   hou_qihang: 
     name: Qihang Hou
-    position: Master Course, 1st year
+    position: Master Course, 2nd year
   liu_maolin: 
     name: Maolin Liu
-    position: Master Course, 1st year
+    position: Master Course, 2nd year
   liu_guowei: 
     name: Guowei Liu
-    position: Master Course, 1st year
+    position: Master Course, 2nd year
   zhang_xilin: 
     name: Xilin Zhang
+    position: Master Course, 2nd year
+  ni_kexin:
+    name: Kexin Ni
     position: Master Course, 1st year
-   
+  yang_qi:
+    name: Qi Yang
+    position: Master Course, 1st year
+  ma_tianjiao:
+    name: Tianjiao Ma
+    position: Master Course, 1st year
+  simo:
+    name: Simo
+    position: Master Course, 1st year
+  fan_jie:
+    name: Jie Fan
+    position: Master Course, 1st year
